@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=180&section=header&text=Vezory&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <h3>Software & Web Game Developer</h3>
+  <h3>чікенган</h3>
 
   <p>
     <a href="https://t.me/vezory">
